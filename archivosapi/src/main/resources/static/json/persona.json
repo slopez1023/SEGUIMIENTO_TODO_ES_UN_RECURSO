@@ -1,0 +1,11 @@
+{
+    "nombre": "Santiago Cardona López",
+    "edad": 22,
+    "profesion": "Ingeniero de Software",
+    "nacionalidad": "Colombiano",
+    "intereses": [
+        "Programación",
+        "Fútbol",
+        "Dibujar"
+    ]
+}

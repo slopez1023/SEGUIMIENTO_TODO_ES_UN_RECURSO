@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+    <nombre>Santiago Cardona López</nombre>
+    <edad>22</edad>
+    <profesion>Ingeniero de Software</profesion>
+    <nacionalidad>Colombiano</nacionalidad>
+    <intereses>
+        <interes>Programación</interes>
+        <interes>Fútbol</interes>
+        <interes>Dibujar</interes>
+    </intereses>
+</persona>
